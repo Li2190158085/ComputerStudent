@@ -117,31 +117,6 @@ Java编译软件eclipse：链接：https://pan.baidu.com/s/115LuYiWtUajEL-ICT71L
 必备单词：[英语六级](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%AF%8D%E6%B1%87%20(1).pdf)
 
 
-## 交流群与社交联系
-
-python全栈二群：428335755
-
-数学建模一群：701163024
-
-数学建模二群：701163024
-
-C/C++交流群：474372221
-
-SQL数据结构群：696774324
-
-个人微信：hxgsrubxjogxeeag  （如有违权可联系我删除）
-
-个人公众号：玩转大数据
-
-个人知乎：川川菜鸟
-
-个人b站有一些基础教程：[b站](https://space.bilibili.com/591228087)
-
-个人CSDN平台,这里有大部分初学者都有的教程，无论是软件安装还是编程学习都有：[CSDN](https://blog.csdn.net/weixin_46211269)
-
-## 谷歌插件
-
-一些辅助性的破解与便捷的插件，跳转仓库：[Chrome](https://github.com/sfvsfv/chrome)
 
 ## 赞助
 
